@@ -44,3 +44,7 @@ A modern, professional portfolio website showcasing web development services, pr
 - **GitHub Pages** - Free hosting and deployment
 
 ## 📁 Project Structure
+professional-portfolio/
+├── index.html # Main HTML file
+├── README.md # This documentation file
+└── (implicit CSS/JS) # Inline styling and scripting
