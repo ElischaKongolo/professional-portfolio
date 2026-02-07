@@ -1,40 +1,46 @@
+# 🌐 Professional Portfolio Website
 
-## **How to Add This README to Your Repository:**
+![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-success)
+![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Responsive](https://img.shields.io/badge/Design-Responsive-orange)
 
-### **Step 1: Copy the Template**
-1. **Select and copy** all the text above (from `# 🌐 Professional Portfolio Website` to the end)
+A modern, professional portfolio website showcasing web development services, projects, and contact information. Built with clean HTML, CSS, and Bootstrap for optimal performance and user experience.
 
-### **Step 2: Go to Your GitHub Repository**
-2. Open: [https://github.com/ElischaKongolo/professional-portfolio](https://github.com/ElischaKongolo/professional-portfolio)
+## 🚀 Live Demo
 
-### **Step 3: Create README File**
-3. Click the **"Add file"** button (green button near the top-right)
-4. Select **"Create new file"**
+**Visit the live website:** [https://elischakongolo.github.io/professional-portfolio/](https://elischakongolo.github.io/professional-portfolio/)
 
-### **Step 4: Paste Content**
-5. In the **"Name your file"** field, type: `README.md`
-6. In the **edit area**, **paste** the copied README content
+## ✨ Features
 
-### **Step 5: Save**
-7. Scroll down to the **"Commit new file"** section
-8. Add a commit message: `"Add professional README documentation"`
-9. Click **"Commit new file"**
+### 🎨 Design & UX
+- **Modern & Responsive Design**: Works perfectly on all devices (desktop, tablet, mobile)
+- **Clean Interface**: Minimalist design with clear navigation
+- **Smooth Animations**: CSS transitions and scroll effects
+- **Professional Color Scheme**: Blue gradient theme with appropriate contrasts
 
-### **Step 6: Verify**
-10. **Refresh** your repository page
-11. You should now see the beautiful README displayed below your files
+### 📱 Sections Included
+1. **Hero Section** - Eye-catching introduction with call-to-action buttons
+2. **Company Profile** - Business statistics and overview
+3. **Services & Pricing** - Transparent pricing for web development services
+4. **Portfolio Showcase** - Projects with live demos and source code
+5. **Contact Section** - Complete contact information and inquiry form
 
-## **What This README Provides:**
+### 💼 Services Offered
+| Service | Price Range | Features |
+|---------|------------|----------|
+| Basic Website | R2,500 - R5,000 | 5-7 pages, responsive, contact form, basic SEO |
+| E-commerce Website | R8,000 - R15,000 | Product management, shopping cart, payment gateway |
+| Custom Development | R15,000+ | Custom features, database integration, API development |
+| Additional Services | From R300/month | Maintenance, SEO optimization, redesign |
 
-✅ **Professional appearance** with badges and icons  
-✅ **Clear documentation** for users and developers  
-✅ **Live demo link** prominently displayed  
-✅ **Services & pricing** table  
-✅ **Deployment instructions**  
-✅ **Customization guide**  
-✅ **Contact information**  
-✅ **Technical specifications**  
-✅ **License information**  
-✅ **Repository statistics**
+## 🛠️ Technologies Used
 
-The README will automatically appear on your repository's main page, giving visitors a professional overview of your portfolio project!
+- **HTML5** - Semantic markup and structure
+- **CSS3** - Custom styling with CSS variables
+- **Bootstrap 5** - Responsive framework and components
+- **Font Awesome** - Icons for enhanced UI
+- **JavaScript** - Interactive elements and form handling
+- **GitHub Pages** - Free hosting and deployment
+
+## 📁 Project Structure
